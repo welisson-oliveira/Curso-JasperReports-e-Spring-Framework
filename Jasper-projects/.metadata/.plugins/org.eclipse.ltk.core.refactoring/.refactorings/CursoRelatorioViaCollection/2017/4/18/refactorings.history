@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;Relatorios&apos;&#x0A;- Original project: &apos;CursoRelatorioViaCollection&apos;&#x0A;- Destination element: &apos;Relatorios&apos;&#x0A;- Original elements:&#x0A;     findContatos.jasper&#x0A;     findContatos.jrxml&#x0A;     findSubContatoFones.jasper&#x0A;     findSubContatoFones.jrxml" description="Copy files" element1="Relatorios/findContatos.jasper" element2="Relatorios/findContatos.jrxml" element3="Relatorios/findSubContatoFones.jasper" element4="Relatorios/findSubContatoFones.jrxml" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1493524976073" target="/CursoRelatorioViaJPA/Relatorios" units="0" version="1.0"/>
+</session>

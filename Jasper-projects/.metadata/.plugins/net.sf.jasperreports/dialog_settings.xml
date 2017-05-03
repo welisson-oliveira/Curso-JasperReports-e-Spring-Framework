@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.jaspersoft.studio.data.sql.dialogs.EditExpressionDialog">
+		<item value="814" key="DIALOG_WIDTH"/>
+		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="388" key="dialogY"/>
+		<item value="1774" key="dialogX"/>
+		<item value="358" key="dialogHeight"/>
+		<item value="814" key="dialogWidth"/>
+		<item value="358" key="DIALOG_HEIGHT"/>
+		<item value="408" key="DIALOG_X_ORIGIN"/>
+		<item value="388" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="com.jaspersoft.studio.data.sql.dialogs.EditFromTableDialog">
+		<item value="528" key="DIALOG_WIDTH"/>
+		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="282" key="dialogY"/>
+		<item value="1785" key="dialogX"/>
+		<item value="153" key="dialogHeight"/>
+		<item value="528" key="dialogWidth"/>
+		<item value="153" key="DIALOG_HEIGHT"/>
+		<item value="419" key="DIALOG_X_ORIGIN"/>
+		<item value="282" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="com.jaspersoft.studio.property.dataset.dialog.DatasetDialog">
+		<item value="1372" key="DIALOG_WIDTH"/>
+		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="27" key="dialogY"/>
+		<item value="0" key="dialogX"/>
+		<item value="731" key="dialogHeight"/>
+		<item value="1372" key="dialogWidth"/>
+		<item value="731" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="com.jaspersoft.studio.property.color.chooser.ColorDialog">
+		<item value="684" key="DIALOG_WIDTH"/>
+		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="15" key="dialogY"/>
+		<item value="1707" key="dialogX"/>
+		<item value="554" key="dialogHeight"/>
+		<item value="684" key="dialogWidth"/>
+		<item value="554" key="DIALOG_HEIGHT"/>
+		<item value="341" key="DIALOG_X_ORIGIN"/>
+		<item value="15" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="com.jaspersoft.studio.property.descriptor.expression.dialog.JRExpressionEditor">
+		<item value="750" key="DIALOG_WIDTH"/>
+		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="27" key="dialogY"/>
+		<item value="308" key="dialogX"/>
+		<item value="680" key="dialogHeight"/>
+		<item value="750" key="dialogWidth"/>
+		<item value="680" key="DIALOG_HEIGHT"/>
+		<item value="308" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
