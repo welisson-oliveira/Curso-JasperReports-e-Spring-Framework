@@ -2921,3 +2921,6 @@ Caused by: java.util.ConcurrentModificationException
 	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
 	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
 	... 24 more
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-05-03 21:22:03.404
+!MESSAGE The workspace will exit with unsaved changes in this session.
